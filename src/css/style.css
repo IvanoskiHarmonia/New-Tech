@@ -49,8 +49,16 @@ body {
     color: black !important;
 }
 
-
-
 .footer {
     margin-top: auto !important;
 }
+
+
+/* Careers css */
+.card h5, .card p, .card ul,
+#careers-reason h2, #careers-reason p, #careers-reason ul {
+    color: black !important;
+}
+/*  */
+
+
